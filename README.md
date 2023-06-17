@@ -1,8 +1,8 @@
-# AI Trading Bot Portfolio
+# AI Trading Bot
 
 This portfolio showcases an AI trading bot developed to automate trading decisions based on machine learning algorithms and historical market data.
 
-#Features:
+# Features:
 
 - Automated trading: The AI trading bot leverages advanced machine learning techniques to make automated trading decisions, including buy and sell orders, based on predefined strategies and market analysis.
 
